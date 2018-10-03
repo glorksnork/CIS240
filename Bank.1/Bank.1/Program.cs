@@ -10,6 +10,16 @@ namespace Bank._1
     {
         static void Main(string[] args)
         {
+            Account1[] accounts =
+                {
+                new Account1("gLORK",500),
+                new Account1("sNORK", 340),
+                new Account1("bORK")
+                };
+
+            foreach (Account1 acct in accounts)
+                Console.WriteLine(acct);
+            }
         }
     }
-}
+

@@ -31,6 +31,5 @@ namespace Bank._1
             balance = amt;
         }
 
-
     }
 }
