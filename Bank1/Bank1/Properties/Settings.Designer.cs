@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TabControlExample.Properties
+namespace Bank1.Properties
 {
 
 
